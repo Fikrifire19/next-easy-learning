@@ -16,7 +16,6 @@ export default ({ children, title}) => (
     <div className="root">
         <Head>
             <title>Next Portofolio</title>
-            <link href="https://cdnjs.cloudflare.com/ajax/libs/npogress/0.2.0/nprogress.min.css"/>
         </Head>
         <header>
             <Link href="/"><a>Home</a></Link>
