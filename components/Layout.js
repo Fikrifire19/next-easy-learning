@@ -20,6 +20,7 @@ export default ({ children, title}) => (
         <header>
             <Link href="/"><a>Home</a></Link>
             <Link href="/about"><a>About</a></Link>
+            <Link href="/blog"><a>My Blog</a></Link>
             <Link href="/hireme"><a>Hire Me</a></Link>
         </header>
 
